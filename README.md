@@ -22,6 +22,3 @@ React
 JavaScript
 HTML & CSS
 
-##  Screenshot
-
-[Click here to view the screenshot](https://github.com/s-pakinamkhaled/newsletter-front-end-FIRSTK-/blob/main/Screenshot%202025-07-16%20123205.png)
