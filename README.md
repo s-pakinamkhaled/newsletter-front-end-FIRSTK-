@@ -1,8 +1,8 @@
-# 📧 Newsletter Landing Page
+#  Newsletter Landing Page
 
 A simple and responsive newsletter subscription landing page built with React.
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the Repository
 
